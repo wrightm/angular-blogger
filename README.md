@@ -1,5 +1,6 @@
 # Angular Blogger
 
+Simple App to demonstrate some of AngularJS key features.
 
 # This project is taken from the angular seed project more details about this project are given below.
 # angular-seed — the seed for AngularJS apps
