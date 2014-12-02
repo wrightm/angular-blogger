@@ -1,3 +1,7 @@
+# Angular Blogger
+
+
+# This project is taken from the angular seed project more details about this project are given below.
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
